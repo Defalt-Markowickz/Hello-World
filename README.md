@@ -5,7 +5,7 @@ Codigo de un hello world en python
 
 Installation: git clone https://github.com/vaxnoo2/Hello-World.git
 
-puedes copear el codigo con cat Hello_World.py
+puedes copiar el codigo con cat Hello_World.py
 
 o
 
